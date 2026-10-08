@@ -62,7 +62,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: is2bstpnxa71cr0m279488sc1srzjgerxjbx3ozyjztqd32wh
+    id: https://zweegle.goatcounter.com/count
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
