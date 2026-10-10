@@ -21,6 +21,10 @@ An explicit reason for the film’s cancellation was never revealed, though it w
 > If your name is mentioned on this document and you would like it withheld, please contact me at [zweeglemania@gmail.com](zweeglemania@gmail.com).
 {: .prompt-danger }
 
+## About
+### Plot Summary
+### Characters
+
 ## Timeline
 ### 2010
 ### 2011
