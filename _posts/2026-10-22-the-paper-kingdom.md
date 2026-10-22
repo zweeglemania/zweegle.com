@@ -20,7 +20,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 > The Paper Kingdom has never been officially released and is currently obtainable only through unofficial channels. **Leaking and distributing copyrighted material is against the law;** we do not condone it, nor will we be sharing any links to copyrighted material on this page.
 {: .prompt-info }
 
-## **Timeline**
+## Timeline
 
 ### Who's who?
 #### My Chemical Romance
@@ -243,27 +243,27 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
     >
     >**Andy Greenwald:** Did you have a name for it?
     >
-    >**Gerard Way:** Yeah, it was called <mark>The Paper Kingdom</mark>.
+    >**Gerard Way:** Yeah, it was called *<mark>The Paper Kingdom</mark>.*
     >
     >**Andy Greenwald:** Sounds kinda cool, sounds dark.
     >
-    **Gerard Way:** Yeah, it does, and you know, there may be a time in my life where I want to do The Paper Kingdom, and maybe it's a book, maybe it's something else. I don't feel that dark, I don't feel like I want to be in a support group for- mentally, on stage every night being in a support group.[^fn-nth-22]
+    **Gerard Way:** Yeah, it does, and you know, there may be a time in my life where I want to do *The Paper Kingdom*, and maybe it's a book, maybe it's something else. I don't feel that dark, I don't feel like I want to be in a support group for- mentally, on stage every night being in a support group.[^fn-nth-22]
    
 #### September
 
--   **September 30, 2014:** Biographer Tom Bryant releases Not the Life It Seems: The True Lives of My Chemical Romance, an unauthorized biography detailing the bands history from their formation in 2001 to their break-up in 2013. The book reveals new information about the production of The Paper Kingdom.
+-   **September 30, 2014:** Biographer Tom Bryant releases Not the Life It Seems: The True Lives of My Chemical Romance, an unauthorized biography detailing the bands history from their formation in 2001 to their break-up in 2013. The book reveals new information about the production of *The Paper Kingdom*.
 
-    Frank reveals that touring keyboardist James Dewees was going to be involved in the writing process for The Paper Kingdom, becoming a full-time member of the band.
+    Frank reveals that touring keyboardist James Dewees was going to be involved in the writing process for *The Paper Kingdom*, becoming a full-time member of the band.
 
     >That was a big change for us, with that, came the ability to be super dark and have these ominous things going on that really filled us out. Having James around was really cool because he’s an absolute genius. I’ve never met anybody as musically skilled and creative as him.
 
-    Gerard's close friend and comic book writer Grant Morrison also discusses the dark time that the band was going while recording The Paper Kingdom, and how it influenced their music.
+    Gerard's close friend and comic book writer Grant Morrison also discusses the dark time that the band was going while recording *The Paper Kingdom*, and how it influenced their music.
 
     >The material I heard was super-dark, it was very strange and wasn’t like anything else they had ever done. They were almost going in a Radiohead direction at that point. It probably wouldn’t have worked for them and I think Gerard knew that all along. The last year was a dark time and the music coming out of it was very gothic, I would say.
     >
     >— Grant Morrison
 
-    Despite the song Fake Your Death being included in their Greatest Hits album, Frank suggests the rest of the material they recorded for The Paper Kingdom will never see the light of day.
+    Despite the song Fake Your Death being included in their Greatest Hits album, Frank suggests the rest of the material they recorded for *The Paper Kingdom* will never see the light of day.
 
     >It’s so far from being done that I don’t know how [much of] it could come out, there were a couple of things here and there that might have been finished but I don’t think it would feel right to go in and finish the other stuff later. Whether there are versions of things that could be agreed upon that could be considered finished, I don’t know. Time will tell.
     >
@@ -309,7 +309,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 
 #### September    
 
--   **September 26, 2022:** On the music trading website LEAKED, a user called Excalibur leaks snippets of three songs from The Paper Kingdom:
+-   **September 26, 2022:** On the music trading website LEAKED, a user called Excalibur leaks snippets of three songs from *The Paper Kingdom*:
 
     - Dark Cloud
     - Witch
@@ -331,20 +331,20 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 
 #### October
 
--   **October 17, 2022:** My Chemical Romance debuts Fake Your Death live during the final night of their five-day residency at the Kia Forum, making it the first song from The Paper Kingdom to be performed live.[^fn-nth-26]
+-   **October 17, 2022:** My Chemical Romance debuts Fake Your Death live during the final night of their five-day residency at the Kia Forum, making it the first song from *The Paper Kingdom* to be performed live.[^fn-nth-26]
 
     {% include embed/youtube.html id='fqLV2QHszds' %}
 
 ### 2023
 #### June
 
--   **June 10, 2023:** Alternative rock community NO COOL KIDS ALLOWED makes a post on Facebook, revealing a livestream they held several months prior where they played all of the leaked snippets from The Paper Kingdom had been copyrighted striked. YouTube's Content ID system automatically identified one of the snippets as "Paper Swords" by My Chemical Romance.
+-   **June 10, 2023:** Alternative rock community NO COOL KIDS ALLOWED makes a post on Facebook, revealing a livestream they held several months prior where they played all of the leaked snippets from *The Paper Kingdom* had been copyrighted striked. YouTube's Content ID system automatically identified one of the snippets as "Paper Swords" by My Chemical Romance.
 
-    Fans theorized at the time that "Paper Swords" could've been another song from The Paper Kingdom, though this was purely speculation as nothing could be confirmed at this time.
+    Fans theorized at the time that "Paper Swords" could've been another song from *The Paper Kingdom*, though this was purely speculation as nothing could be confirmed at this time.
     
     > GUYS.. several months ago on our stream we played leaked snippets of what we thought were new MCR songs...
     > Well, just recently (as in TODAY) one of those snippets has been identified by the automatic content ID system as "Paper Swords" by My Chemical Romance.
-    > Could this be the title of new song?? Is The Paper Kingdom happening??? IS IT HAPPENING SOON???? WE ARE NOT OKAY.[^fn-nth-32]
+    > Could this be the title of new song?? Is *The Paper Kingdom* happening??? IS IT HAPPENING SOON???? WE ARE NOT OKAY.[^fn-nth-32]
     
     ![Desktop View](/assets/img/2026/10/nocoolkidsallowed-2023_06_10-1.jpg){: width="972" height="589" }
     
@@ -357,7 +357,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 ### 2024
 #### July
 
--   **July 4, 2024:** D0UG, a reputable middleman on LEAKED, leaks a six-minute long track from The Paper Kingdom titled "Witch", a snippet of which was leaked by Excalibur two years prior.
+-   **July 4, 2024:** D0UG, a reputable middleman on LEAKED, leaks a six-minute long track from *The Paper Kingdom* titled "Witch", a snippet of which was leaked by Excalibur two years prior.
 
     Users on the r/MyChemicalRomance subreddit notice that the first note of Witch was used in a 2020 promotional video for A Summoning, which was deleted for unknown reasons and later re-uploaded without sound.[^fn-nth-27][^fn-nth-28]
 
@@ -392,11 +392,11 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
     
 ### 2025
 #### July
--   **July 6, 2025:** Reddit user MyspacePuppy speaks to D0UG, a reputable middleman on the music trading forum LEAKED where The Paper Kingdom was originally put up for sale. D0UG claims he served as a middleman for the sale of The Paper Kingdom by Excalibur to buyers Aang and ATTAM, and that he was the one to leak Witch after ATTAM was exposed for reselling.[^fn-nth-33]
+-   **July 6, 2025:** Reddit user MyspacePuppy speaks to D0UG, a reputable middleman on the music trading forum LEAKED where *The Paper Kingdom* was originally put up for sale. D0UG claims he served as a middleman for the sale of The Paper Kingdom by Excalibur to buyers Aang and ATTAM, and that he was the one to leak Witch after ATTAM was exposed for reselling.[^fn-nth-33]
 
     ![Desktop View](/assets/img/2026/10/leakedcx-2025_07_06-1.png){: width="972" height="589" }
 
--   **July 26, 2025:** During a show in Los Angeles, the band debuts an unreleased song that was originally recorded for The Paper Kingdom. The song is dedicated to Doug McKean's family, who were in attendance at the show.
+-   **July 26, 2025:** During a show in Los Angeles, the band debuts an unreleased song that was originally recorded for *The Paper Kingdom*. The song is dedicated to Doug McKean's family, who were in attendance at the show.
 
     >We were making a record that never came out, and this was one of the songs we really loved from it. It was just us in the studio with our friend Doug McKean—he was there recording it. His family's here tonight. I want this to go out to them.
     >
@@ -415,7 +415,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 {: .prompt-warning }
 
 #### February
-- **February 1, 2026:** A user on LEAKED named Coming of Jesus leaks an unfinished, one-hour long work-print of The Paper Kingdom online.
+- **February 1, 2026:** A user on LEAKED named Coming of Jesus leaks an unfinished, one-hour long work-print of *The Paper Kingdom* online.
 
   ![Desktop View](/assets/img/2026/10/leakedcx-2026_02_01-1.png){: width="972" height="589" }
   
@@ -453,7 +453,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
   ![Desktop View](/assets/img/2026/10/leakedcx-2026_02_12-8.png){: width="972" height="589" }
   ![Desktop View](/assets/img/2026/10/leakedcx-2026_02_12-9.png){: width="972" height="589" }
 
-- **February 13, 2026:** Forum member Disoveries22 leaks a lossless version of the initial The Paper Kingdom leak, [though it's validity is disputed by forum members](/assets/img/2026/10/leakedcx-2026_02_18-1.png).
+- **February 13, 2026:** Forum member Disoveries22 leaks a lossless version of the initial *The Paper Kingdom leak*, [though it's validity is disputed by forum members](/assets/img/2026/10/leakedcx-2026_02_18-1.png).
 
   They accuse Coming of Jesus of being a a doxxer and a scammer, who extorted Excalibur out of thousands of dollars alongside the album itself. They also allege that Coming of Jesus wanted to sell "insanely private" information about the band to private buyers, and he's well known in the community for this toxic behaviour.
 
@@ -509,7 +509,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 
   ![Desktop View](/assets/img/2026/10/leakedcx-2026_02_19-6.png){: width="972" height="589" }
   
-- **February 21, 2026 - 7:35pm:** On behalf of Toasty, forum user Fedew04 posts a link to an eight gigabyte archive titled "TPK.zip" with 63 files which contains individual demos of The Paper Kingdom tracks (excluding Paper Swords and Witch), along with "Batman Map" audio files. The post includes a message from Toasty, saying material not included in the first drop will be leaked through a second drop. 
+- **February 21, 2026 - 7:35pm:** On behalf of Toasty, forum user Fedew04 posts a link to an eight gigabyte archive titled "TPK.zip" with 63 files which contains individual demos of *The Paper Kingdom* tracks (excluding Paper Swords and Witch), along with "Batman Map" audio files. The post includes a message from Toasty, saying material not included in the first drop will be leaked through a second drop. 
 
   ![Desktop View](/assets/img/2026/10/leakedcx-2026_02_21-2.png){: width="972" height="589" }
     
@@ -523,8 +523,8 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 
 -  **May 24, 2026:** A member of the My Chemical Romance tracker team, Paperjammer, posts a document titled "tpkallfilesinfo.txt`" on the LEAKED forum. The documents contains all metadata for the Toasty mega drop trials, which were initially scrubbed due to privacy and safety concerns.
   
-## **Tracklist**
-This is currently the most complete track-list of The Paper Kingdom that we have, taken from the leaked test sequence from February 2026. 
+## Tracklist
+This is currently the most complete track-list of *The Paper Kingdom* that we have, taken from the leaked test sequence from February 2026. 
 1. Fake Your Death (3:31)
 2. Witch (5:30)
 3. Bike Thief (5:02)
@@ -542,8 +542,8 @@ This is currently the most complete track-list of The Paper Kingdom that we have
 15. Dogs (4:30)
 16. Perfectly Well (2:15)
 
-## **Speculation**
-This section is dedicated to speculation and theories by the community surrounding The Paper Kingdom, ranging from the origin of the leaks to how the albums could've looked visually. 
+## Speculation
+This section is dedicated to speculation and theories by the community surrounding *The Paper Kingdom*, ranging from the origin of the leaks to how the albums could've looked visually. 
  
 >  Most information in the following sections is sourced from community speculation or unidentified sources whose identies and reliablity cannot be verified. **Be open-minded about what you read online, and never treat or *present* unverified information as fact.**
 {: .prompt-info }
@@ -558,7 +558,7 @@ Unless the leaks for *The Paper Kingdom* and "The Foundations of Decay" came fro
 A theory that was popular in the early days of the leak was the leaked material coming from a 2016 data breach of Warner Music's servers, though there's no strong evidence that points to this; the presence of files from 2019 and 2022 also eliminate this claim.
 
 ### 2019 Revival
-Since the 2026 leaks, it has been heavily believed by fans that the band was planning to revisit The Paper Kingdom in late 2019—but it was scrapped before the 2022 tour, most likely due to the pandemic and a change of direction. Multiple evidence point to this theory: snippets of songs from The Paper Kingdom were featured prominently in 2019 marketing materials during the bands "Return" era which had themes of witchcraft and occultism; metadata for leaked files also indicate the band had been re-exporting old material from 2012 to revisit during late 2019 sessions.
+Since the 2026 leaks, it has been heavily believed by fans that the band was planning to revisit *The Paper Kingdom* in late 2019—but it was scrapped before the 2022 tour, most likely due to the pandemic and a change of direction. Multiple evidence point to this theory: snippets of songs from The Paper Kingdom were featured prominently in 2019 marketing materials during the bands "Return" era which had themes of witchcraft and occultism; metadata for leaked files also indicate the band had been re-exporting old material from 2012 to revisit during late 2019 sessions.
 
 We do know the band had recorded *some* new material before the pandemic, since keyboardist Kamie Muhoberac (who wasn't with the band in 2012) is credited alongside Ray Toro for an original piece featured in the "A Summoning" promotional video. Even with all of this taken into account, it's unlikely any serious work was done on a revival of *The Paper Kingdom* before the pandemic; all files from 2019 are just re-exports of files from 2012, proven by various discrepancies (such as a 2019 file featuring James Dewees, despite him no longer being associated with the band by that point). 
 
@@ -570,7 +570,7 @@ We do know the band had recorded *some* new material before the pandemic, since 
 
 ### Visual Style
 
-## **Contact**
+## Contact
 If you have any questions or information that I might find useful, please send an email to [buckshot_collie263@simplelogin.com](mailto:buckshot_collie263@simplelogin.com), and I'll get back to you as soon as possible. Alternatively, you can conact me through Discord at `zweegle`. **Friend requests without a personalized message will be denied.**
 
 ## Special Thanks
@@ -583,7 +583,7 @@ If you have any questions or information that I might find useful, please send a
 
 - **Ham1ltron**, for creating the amazing absolutely [cover art](https://www.reddit.com/r/ThePaperKingdomMCR/comments/1r95km9/my_take_on_the_paper_kingdom_cover/) and letting me use it for this page! 
 
-## **Credits**
+## Credits
 
 ### Editor
 
@@ -606,7 +606,7 @@ If you have any questions or information that I might find useful, please send a
 - Bloodedge
 - Paperjammer
 
-## **Sources**
+## Sources
 
 [^fn-nth-1]: [chorus.fm (August 12, 2011): "Interview: Mikey Way of My Chemical Romance"](https://chorus.fm/features/interviews/mikey-way-of-my-chemical-romance/).
 [^fn-nth-2]: [Destroya News (January 18, 2012): "Interview with Frank Iero, Big Day Out 2012: My Chemical Romance"](https://destroyanews.wordpress.com/2012/01/18/interview-with-frank-iero-day-out-2012-my-chemical-romance/)
