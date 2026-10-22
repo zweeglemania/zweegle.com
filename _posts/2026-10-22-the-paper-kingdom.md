@@ -15,13 +15,12 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 > 
 >— Frank Iero[^fn-nth-23]
 
-*The Paper Kingdom* would ultimately never see the light of day, as the band broke up in March 2013—leading to the album being scrapped. In the years that followed the break-up, *The Paper Kingdom* gained the mystical status of being the "lost My Chemical Romance album" and was subject to heavy speculation within the community—which only intensified after the bands reunion in 2019. Throughout the early 2020s, small portions of the album would begin leaking online—eventually culminating in the full album leaking in 2026. After fourteen years, fans were finally able to listen to *<mark>the darkest music My Chemical Romance had ever written</mark>*.
+*The Paper Kingdom* would ultimately never see the light of day, as the band broke up in March 2013—leading to the album being scrapped. In the years that followed the break-up, *The Paper Kingdom* gained the mystical status of being the "lost My Chemical Romance album" and was subject to heavy speculation within the community—which only intensified after the bands reunion in 2019. Throughout the early 2020s, small portions of the album would begin leaking online—eventually culminating in the full album leaking in 2026. After fourteen years, fans were finally able to listen to *<mark>the darkest music My Chemical Romance has ever written</mark>.*
 
 > The Paper Kingdom has never been officially released and is currently obtainable only through unofficial channels. **Leaking and distributing copyrighted material is against the law;** we do not condone it, nor will we be sharing any links to copyrighted material on this page.
 {: .prompt-info }
 
 ## **Timeline**
-
 
 ### Who's who?
 #### My Chemical Romance
@@ -358,15 +357,13 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 ### 2024
 #### July
 
--   **July 4, 2024:** An unidentified user on LEAKED leaks a six-minute long demo of a track from The Paper Kingdom titled "Witch", a snippet of which was leaked by Excalibur two years prior.
+-   **July 4, 2024:** D0UG, a reputable middleman on LEAKED, leaks a six-minute long track from The Paper Kingdom titled "Witch", a snippet of which was leaked by Excalibur two years prior.
 
     Users on the r/MyChemicalRomance subreddit notice that the first note of Witch was used in a 2020 promotional video for A Summoning, which was deleted for unknown reasons and later re-uploaded without sound.[^fn-nth-27][^fn-nth-28]
 
     >Reliable sources for this particular leak are extremely difficult to find, and no evidence of the original threads existence is currently known to exist.
     >
     >An article from the *Jewel City Times* says a song leaked on July 4, 2026 and while it doesn't name the song, it does cite the My Chemical Romance tracker (which names the track) as it's primary source.
-    >
-    >Until we have more solid evidence, everything relating to this leak (including what led up to it) will go into the speculation section.
     {: .prompt-info }
     
 -   **July 5, 2024:** Reddit user Live_Space_2840 reveals on Reddit that they spoke to Excalibur back in October 2022. During this conversation, Excalibur provides two extra snippets, one of them being from "Wake Up!" (different from the first snippet) and the other being from a demo for their most recent single, "The Foundations of Decay".
@@ -512,11 +509,11 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 
   ![Desktop View](/assets/img/2026/10/leakedcx-2026_02_19-6.png){: width="972" height="589" }
   
-- **February 21, 2026 - 7:35pm:** On behalf of Toasty, forum user Fedew04 posts a link to an eight gigabyte archive labelled "TPK.zip" with 63 files which contains individual demos of The Paper Kingdom tracks (excluding Paper Swords and Witch), along with "Batman Map" audio files. The post includes a message from Toasty, saying material not included in the first drop will be leaked through a second drop. 
+- **February 21, 2026 - 7:35pm:** On behalf of Toasty, forum user Fedew04 posts a link to an eight gigabyte archive titled "TPK.zip" with 63 files which contains individual demos of The Paper Kingdom tracks (excluding Paper Swords and Witch), along with "Batman Map" audio files. The post includes a message from Toasty, saying material not included in the first drop will be leaked through a second drop. 
 
   ![Desktop View](/assets/img/2026/10/leakedcx-2026_02_21-2.png){: width="972" height="589" }
     
--  **February 21, 2026 - 12:07pm:** The second drop, a twelve gigabyte file labelled "TPK2.7z" is released. The contents of the drop include two test sequences, ProTools session files for The Foundations of Decay and non-TPK material. 
+-  **February 21, 2026 - 12:07pm:** The second drop, a twelve gigabyte file titled "TPK2.7z" is released. The contents of the drop include two test sequences, ProTools session files for The Foundations of Decay and non-TPK material. 
 
    As of the 18th of October 2026, this is the last major *The Paper Kingdom* leak.
 
@@ -524,7 +521,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
    
 -  **March 3, 2026:** Reddit user Bl0k1d finds the old tweets of Doug McKean asking for Narita Airport samples, and posts about them on the r/MyChemicalRomance subreddit.[^fn-nth-41]
 
--  **May 24, 2026:** A member of the My Chemical Romance tracker team, Paperjammer, posts a document labelled "METADATA IN ORDER (1)" on the LEAKED forum. The documents contains all metadata for the Toasty mega drop trials, which were initially scrubbed due to privacy and safety concerns.
+-  **May 24, 2026:** A member of the My Chemical Romance tracker team, Paperjammer, posts a document titled "tpkallfilesinfo.txt`" on the LEAKED forum. The documents contains all metadata for the Toasty mega drop trials, which were initially scrubbed due to privacy and safety concerns.
   
 ## **Tracklist**
 This is currently the most complete track-list of The Paper Kingdom that we have, taken from the leaked test sequence from February 2026. 
@@ -546,12 +543,45 @@ This is currently the most complete track-list of The Paper Kingdom that we have
 16. Perfectly Well (2:15)
 
 ## **Speculation**
-This section is dedicated to speculation and theories by the community surrounding The Paper Kingdom, ranging from the origin of the leaks to how the albums visual could've looked visually. 
+This section is dedicated to speculation and theories by the community surrounding The Paper Kingdom, ranging from the origin of the leaks to how the albums could've looked visually. 
  
->  All information in the following sections is sourced from community speculation or unidentified sources whose identies and reliablity cannot be verified. **Be open-minded about what you read online, and never treat or *present* unverified information as fact.**
+>  Most information in the following sections is sourced from community speculation or unidentified sources whose identies and reliablity cannot be verified. **Be open-minded about what you read online, and never treat or *present* unverified information as fact.**
 {: .prompt-info }
 
+### Source of Leaks
+Since the initial leaks, there has been considerable community speculation over the source of the leaks—though nothing has been definitely proven, it's generally agreed upon that the leaked material was stolen directly from Doug McKean in early 2022. There are two things that make this theory plausible: first, all of the leaked tracks come exclusively from the 2012 sessions for the album—there is currently no known cases of leaked material from their previous four albums circulating; secondly, data found in the ProTools session files show the demos for "The Foundations of Decay" were stored in Doug McKean's Dropbox, giving us a good idea about what the hacker (generally believed to be Excalibur) may have targeted.
+
+   `Macintosh HD/Users/mckeanwest/Dropbox/   MCR/   2022/   Foundations Of Decay (8) STEM Session.ptx    `
+
+Unless the leaks for *The Paper Kingdom* and "The Foundations of Decay" came from two separate sources—which is highly unlikely at this point, this data tells us that the hack happened sometime between January and September 2022, when Excalibur made his first post on LEAKED.
+
+A theory that was popular in the early days of the leak was the leaked material coming from a 2016 data breach of Warner Music's servers, though there's no strong evidence that points to this; the presence of files from 2019 and 2022 also eliminate this claim.
+
+### 2019 Revival
+Since the 2026 leaks, it has been heavily believed by fans that the band was planning to revisit The Paper Kingdom in late 2019—but it was scrapped before the 2022 tour, most likely due to the pandemic and a change of direction. Multiple evidence point to this theory: snippets of songs from The Paper Kingdom were featured prominently in 2019 marketing materials during the bands "Return" era which had themes of witchcraft and occultism; metadata for leaked files also indicate the band had been re-exporting old material from 2012 to revisit during late 2019 sessions.
+
+We do know the band had recorded *some* new material before the pandemic, since keyboardist Kamie Muhoberac (who wasn't with the band in 2012) is credited alongside Ray Toro for an original piece featured in the "A Summoning" promotional video. Even with all of this taken into account, it's unlikely any serious work was done on a revival of *The Paper Kingdom* before the pandemic; all files from 2019 are just re-exports of files from 2012, proven by various discrepancies (such as a 2019 file featuring James Dewees, despite him no longer being associated with the band by that point). 
+
+### 2012 Soundchecks
+
+
+### Gerard's Solo Material
+
+
+### Visual Style
+
 ## **Contact**
+If you have any questions or information that I might find useful, please send an email to [buckshot_collie263@simplelogin.com](mailto:buckshot_collie263@simplelogin.com), and I'll get back to you as soon as possible. Alternatively, you can conact me through Discord at `zweegle`. **Friend requests without a personalized message will be denied.**
+
+## Special Thanks
+
+- **Sammyliterally**, for creating the [original blog post](https://sammyliterally.com/blog/mcr-the-paper-kingdom-timeline-history-and-leaks/) that inspired me to make this one.
+
+- **Kekktye**, for their [amazing timeline](https://www.reddit.com/r/ThePaperKingdomMCR/comments/1r3ygy0/leaked_files_masterlist_timeline_validity_sourced/) that covered the leaks as they were ongoing.
+
+- The team at **My Chemical Leakage**, for creating the [My Chemical Romance tracker](https://docs.google.com/spreadsheets/d/1FQAhGUAkdn_0H31c_eAGzJxqLBrN4OB-M6Gn1UXtOQU/edit?gid=0#gid=0).
+
+- **Ham1ltron**, for creating the amazing absolutely [cover art](https://www.reddit.com/r/ThePaperKingdomMCR/comments/1r95km9/my_take_on_the_paper_kingdom_cover/) and letting me use it for this page! 
 
 ## **Credits**
 
@@ -561,9 +591,12 @@ This section is dedicated to speculation and theories by the community surroundi
 
 ### Feedback
 
+- Adrian
+- Dive
 - Fedew
 - Galileeo
 - Goose
+- Landon
 - Morningstar
 - Paperjammer
 
