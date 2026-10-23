@@ -47,7 +47,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 
 -   **D0UG:** Served as a middleman for the transaction between seller Excalibur and the buyers Aang and ATTAM.
 
--   **Coming of Jesus:** Leaker who posted an unfinished workprint of the full album online, and attempted to sell more unreleased material. He would later be called out for scamming and obnoxious behaviour, leading to his reputation being ruined.
+-   **Coming of Jesus:** Leaker who posted an unfinished work-print of the full album online, and attempted to sell more unreleased material. He would later be called out for scamming and obnoxious behaviour, leading to his reputation being ruined.
 
 -   **Toasty:** Leaker who released numerous tracks from *The Paper Kingdom* sessions, disappearing shortly after dropping a mega leak containing 20 gigabytes of material.
 
@@ -539,7 +539,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 
    > —The Paper Kingdom, which never came out— *<mark>well, kinda</mark>*.[^fn-nth-42]
   
-## Tracklist
+## Track-list
 This is currently the most complete track-list of *The Paper Kingdom* that we have, taken from the leaked test sequence from February 2026. 
 1. Fake Your Death (3:31)
 2. Witch (5:30)
@@ -650,12 +650,12 @@ If you have any questions or information that I might find useful, please send a
 
 ### Feedback
 
-- Adrian
+- Adrian (9996)
 - Dive
 - Fedew
-- Galileeo
+- Lordz19
 - Goose
-- Landon
+- Landonjames
 - Morningstar
 - Paperjammer
 
