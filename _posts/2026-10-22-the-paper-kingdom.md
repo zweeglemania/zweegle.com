@@ -1,6 +1,6 @@
 ---
 title: The Paper Kingdom
-date: 2026-10-23 02:25:00 +0100
+date: 2026-10-23 03:27:00 +0100
 categories: [Lost Media]
 image:
   path: /assets/img/2026/10/tpk-cover-image.jpg
