@@ -1,6 +1,6 @@
 ---
 title: The Paper Kingdom
-date: 2026-10-08 21:11:02 +/-0800
+date: 2026-10-23 02:25:00 +0100
 categories: [Lost Media]
 image:
   path: /assets/img/2026/10/tpk-cover-image.jpg
@@ -9,13 +9,13 @@ tags: [my chemical romance, lost media]     # TAG names should always be lowerca
 comments: false
 ---
 
-In response to the polarizing reception of their fourth album *Danger Days*, American rock band My Chemical Romance began working on a follow-up record with the hopes of re-capturing the success of their iconic third album, *The Black Parade*. Following the conclusion of the Danger Days tour, the band returned to Los Angeles to begin work on their fifth album—a concept record about a support group of parents coping with their loss of their children, titled *The Paper Kingdom*. However, the sessions for the album were described as bleak[^fn-nth-23], with those present at the sessions describing it as the darkest music the band had ever written and drawing comparisons to experimental alt-rock band Radiohead. 
+In response to the polarizing reception of their fourth album *Danger Days*, American rock band My Chemical Romance began working on a follow-up record with the hopes of re-capturing the success of their iconic third album, *The Black Parade*. Following the conclusion of the *Danger Days* tour, the band returned to Los Angeles to begin work on their fifth album—a concept record about a support group of parents coping with their loss of their children, titled *The Paper Kingdom*. However, the sessions for the album were described as bleak[^fn-nth-23], with those present at the sessions describing it as the darkest music the band had ever written and drawing comparisons to experimental alt-rock band Radiohead. 
 
 > It was bleak, man. It was fucking real bleak. I get the Radiohead vibe but I think that’s only because none of it was done. There was a weird sparseness to it. We had over an hour’s worth of music framed but very little of it was by any means finished.
 > 
 >— Frank Iero[^fn-nth-23]
 
-*The Paper Kingdom* would ultimately never see the light of day, as the band broke up in March 2013—leading to the album being scrapped. In the years that followed the break-up, *The Paper Kingdom* gained the mystical status of being the "lost My Chemical Romance album" and was subject to heavy speculation within the community—which only intensified after the bands reunion in 2019. Throughout the early 2020s, small portions of the album would begin leaking online—eventually culminating in the full album leaking in 2026. After fourteen years, fans were finally able to listen to *<mark>the darkest music My Chemical Romance has ever written</mark>.*
+*The Paper Kingdom* would ultimately never see the light of day, as the band broke up in March 2013—leading to the album being scrapped. In the years that followed the break-up, *The Paper Kingdom* gained the mystical status of being the "lost My Chemical Romance album" and was subject to heavy speculation within the community—which only intensified after the bands reunion in 2019. Throughout the early 2020s, small portions of the album would begin leaking online—eventually culminating in the full album leaking in 2026. After fourteen years, fans were finally able to listen to *<mark>the darkest music My Chemical Romance has ever written</mark>*.
 
 > The Paper Kingdom has never been officially released and is currently obtainable only through unofficial channels. **Leaking and distributing copyrighted material is against the law;** we do not condone it, nor will we be sharing any links to copyrighted material on this page.
 {: .prompt-info }
@@ -25,7 +25,19 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 ### Who's who?
 #### My Chemical Romance
 
--   **Doug McKean:** Audio engineer, record producer, and friend of the band who did engineering for The Black Parade and Danger Days, and was set to produce *The Paper Kingdom*.
+-   **Gerard Way:** Lead vocalist and co-founder of the band.
+
+-   **Ray Toro:** Lead guitarist and backing vocalist.
+
+-   **Mikey Way**: Bass guitarist.
+
+-   **Frank Iero:** Rhythm guitarist and backing vocals.
+
+-   **Doug McKean:** Audio engineer, record producer, and friend of the band who did engineering for *The Black Parade* and *Danger Days*, and was set to produce *The Paper Kingdom*.
+
+-   **James Dewees:** Touring keyboardist from 2007 to 2012, who became an official member of the band in 2012 until it's break-up in 2013. He took part in studio sessions for *The Paper Kingdom*, and was set to play a massive role in the album's keyboard-driven sound.
+
+-   **Jarrod Alexander:** My Chemical Romance's touring drummer, who played drums on *The Paper Kingdom* and their most recent single "The Foundations of Decay".
 
 #### Buyers and Sellers
 
@@ -41,11 +53,11 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 
 ### 2010
 #### November
-- **November 22, 2010:** Danger Days is released.
+- **November 22, 2010:** *Danger Days* is released.
 
 ### 2011
 #### August
-- **August 12, 2011:** During an interview with chorus.fm, Mikey Way reveals the band has been experimenting with new material.
+- **August 12, 2011:** During an interview with chorus.fm, Mikey reveals the band has been experimenting with new material.
   > Yeah, we have actually. We kind of write every day and we don’t even realize we’re doing it. Sometimes we’ll be at soundcheck and someone will have a riff and everyone starts playing off the riff, or Gerard [Way] has a vocal melody and everyone starts playing off the vocal melody. We’ve had tons of stuff come from that. We’re not really sure where the songs are going to end up or what they’re going to be yet, but we’re just going to keep writing and writing. After this tour, we’re going to pretty quickly continue demoing and then get in there as soon as possible to make a new album.
   
   When asked what the new material sounded like, Mikey responded:
@@ -56,7 +68,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
   
 ### 2012
 #### January
-- **January 18, 2012:** During an interview with Destroya News, Frank Iero reveals the band is in the early stages of figuring out their fifth album. He doesn't give any further information, but he does say:
+- **January 18, 2012:** During an interview with Destroya News, Frank reveals the band is in the early stages of figuring out their fifth album. He doesn't give any further information, but he does say:
   > “I can tell you that I think about music in colour, and I see a lot of orange in the next record."
   >
   >— Frank Iero[^fn-nth-2]
@@ -79,7 +91,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 
   >Yeah, back in L.A., we just got a studio, so we’re kind of building that out and basically trying to make a kind of compound where we can be creative and be there whenever we want to be. That’s one of the tough things, you know, when you’re doing records in a kind of a cycle, you have like maybe 3 or 4 months’ time window where you have to write and record a record. Sometimes that’s tough, and you can take longer, but you always feel like there’s something over your head like a time constraint. And, you know, now we’ll have our own place where we can go and make music 24 hours a day, and it’s going to be great. 
 
-  Ray also reveals they'll be working with sound engineer Doug McKean, who did engineering for both The Black Parade and Danger Days
+  Ray also reveals they'll be working with sound engineer Doug McKean, who did engineering for both *The Black Parade* and *Danger Days*.
 
   >Doug McKean, we’ve done our past two records with him, he’s an awesome engineer, so he’s going to be working with us. He knows everything. He’s a genius. He definitely, while we’re in the studio with us, helps shape the sound of songs. He does funny stuff like play back stuff in a different way or change arrangements and trick our ears and we’ll be like “That was awesome! Look at what we did!”
   >
@@ -152,7 +164,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 
     >**Gerard Way:** [holds up 5 fingers] Five. I’m only calling it-… I like to call it MCR 5 right now, so I’m really excited.
 
-  He says the album is going "rather quickly" and that he'll be meeting with Colleen Atwood (costume designer for The Black Parade and Danger Days) to discuss costumes for the fifth album.
+  He says the album is going "rather quickly" and that he'll be meeting with Colleen Atwood (costume designer for *The Black Parade* and *Danger Days*) to discuss costumes for the fifth album.
 
     >**Kevin Smith:** When’s the album come out?
     >
@@ -183,7 +195,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 ### 2013
 #### March
 
--   **March 9, 2013:** Kill Hannah frontman Mat Devine is interviewed by Kerrang. During the interview, he reveals Gerard Way played him four new songs from their upcoming fifth album.
+-   **March 9, 2013:** Kill Hannah frontman Mat Devine is interviewed by Kerrang. During the interview, he reveals Gerard played him four new songs from their upcoming fifth album.
 
     >It's incredible! It's slightly new territory; it's an evolution. I've heard four new songs. It's exactly in line with what My Chem fans will be thrilled to hear, but at the same time it really marks what I think is a new phase [for the band]. It's super refreshing, but at the same time familiar in the way you want it to be.
     >
@@ -522,6 +534,10 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 -  **March 3, 2026:** Reddit user Bl0k1d finds the old tweets of Doug McKean asking for Narita Airport samples, and posts about them on the r/MyChemicalRomance subreddit.[^fn-nth-41]
 
 -  **May 24, 2026:** A member of the My Chemical Romance tracker team, Paperjammer, posts a document titled "tpkallfilesinfo.txt`" on the LEAKED forum. The documents contains all metadata for the Toasty mega drop trials, which were initially scrubbed due to privacy and safety concerns.
+
+-  **July 8, 2026:** While thanking Jarrod for his drumming on "The Foundations of Decay", Gerard briefly mentions *The Paper Kingdom* by name for the first time since 2014.
+
+   > —The Paper Kingdom, which never came out— *<mark>well, kinda</mark>*.[^fn-nth-42]
   
 ## Tracklist
 This is currently the most complete track-list of *The Paper Kingdom* that we have, taken from the leaked test sequence from February 2026. 
@@ -545,7 +561,7 @@ This is currently the most complete track-list of *The Paper Kingdom* that we ha
 ## Speculation
 This section is dedicated to speculation and theories by the community surrounding *The Paper Kingdom*, ranging from the origin of the leaks to how the albums could've looked visually. 
  
->  Most information in the following sections is sourced from community speculation or unidentified sources whose identies and reliablity cannot be verified. **Be open-minded about what you read online, and never treat or *present* unverified information as fact.**
+>  Most information in the following sections is sourced from community speculation or unidentified sources whose identities and reliability cannot be verified. **Be open-minded about what you read online, and never treat or *present* unverified information as fact.**
 {: .prompt-info }
 
 ### Source of Leaks
@@ -564,12 +580,55 @@ We do know the band had recorded *some* new material before the pandemic, since 
 
 ### 2012 Soundchecks
 
+Following the 2024 Witch leak, the 2012 soundcheck videos would resurface in the community—leading to speculation. It was proposed that the unidentified, unreleased song that the band played during the soundchecks could've been intended for *The Paper Kingdom*.
 
+In the description of her video, Becki Hill wrote:
+
+> I loathe my camera so much because it ran out of battery after this, just when they played a NEW SONG. It was so beautiful, oh my God. But I can’t remember it now. All I remember is one lyric that was like “when the rain pours down”. Waaahhhh :([^fn-nth-4]
+
+The lyric "when the pain pours down" led many to believe the unidentified song was the then-unleaked song "War Beneath The Rain", which was listed in the leaked track-list from Excalibur. While unconfirmed, this wasn't an unreasonable assumption—especially considering what Mikey had said in an interview a year prior to the soundcheck:
+
+  > We kind of write every day and we don’t even realize we’re doing it. Sometimes we’ll be at soundcheck and someone will have a riff and everyone starts playing off the riff, or Gerard [Way] has a vocal melody and everyone starts playing off the vocal melody. We’ve had tons of stuff come from that. We’re not really sure where the songs are going to end up or what they’re going to be yet, but we’re just going to keep writing and writing. After this tour, we’re going to pretty quickly continue demoing and then get in there as soon as possible to make a new album.[^fn-nth-1]
+
+When the band debuted "War Beneath The Rain" live in 2025, it was revealed to be a very different song from what was performed during the soundcheck in 2012. It's very possible the soundcheck could've been a early version of "War Beneath The Rain" with a very different sound—which isn't unusual for the band; for example, compare [House of Wolves](https://youtu.be/woalhgxmnDo) with it's [live demo](https://youtu.be/pdnif_lEpg4). 
+
+As of now, no leaked or released tracks resemble the unidentified song from the soundcheck. A few still believe it to be an early version of War Beneath the Rain, though a few other theories have been proposed—such as it being a cover of another song, a demo that is still yet to leak or just a jam that never made it to studio sessions.
+  
 ### Gerard's Solo Material
 
+It's theorized that for his solo material, Gerard could've re-used lyrics or tracks from *The Paper Kingdom*. One possible example is "Pinkish", a song that while not part of his solo album *Hesitant Alien*—was described by Gerard as a "way to close the [Hesitant Alien] chapter".[^fn-nth-43]
+
+"Pinkish" was noted by critics and fans as being heavier and more darker than the rest of *Hesitant Alien*, and drew comparisons to Gerard's past work in My Chemical Romance.
+ 
+> Now I could have been  
+> Washed away, rescue me mother  
+> Fragile and holding my hand  
+> Accidents, grades  
+> Marks that we left on each other  
+> Pinkish in color again  
+>  
+>— Gerard Way, "Pinkish"
+
+There's a possible reference to *The Paper Kingdom* in "How It's Going to Be", the tenth track from *Hesitant Alien*.
+
+> <mark>In storybooks you'll never find</mark>  
+> <mark>In paper armor that you'd mind</mark>  
+>  
+>— Gerard Way, "How It's Going To Be"
+
+At the end of the day, both of these could just be coincidence—but considering the timing of *Hesitant Alien*, having been released two years after *The Paper Kingdom*, it's possible Gerard could've took some inspiration from the album when it came to his solo material.
 
 ### Visual Style
 
+There's currently no confirmed artwork from *The Paper Kingdom* available online, and how the album would've looked visually remains a unknown. It's highly like that official visuals for the album existed at some point, going off a 2014 interview with Gerard.
+
+   >**Zach Dresch:** Before My Chem broke up, you were working on a- I was watching your interview with Grant Morrison in Australia. You're talking about how your final album would be a concept record about a support group of parents. Was that true?
+   >
+   >**Gerard Way:** Yea, that is true. That was where it was heading, <mark>and the visuals were really beautiful</mark>, um, and it was again a lot different like all of the different eras of MCR were very different.[^fn-nth-20]
+   
+In a 2014 interview, Gerard said *The Paper Kingdom* was going to be a whole stage production, complete with costumes and sets[^fn-nth-22]; in an August 2012 interview with Kevin Smith, Gerard said he was planning to meet with Colleen Atwood (costume designer for The Black Parade and Danger Days) to discuss costumes for the album.[^fn-nth-22]
+
+It's *possible* that concept artwork for *The Paper Kingdom* does still exist, though this remains unconfirmed as no concept art from the album has yet to resurface online.
 ## Contact
 If you have any questions or information that I might find useful, please send an email to [buckshot_collie263@simplelogin.com](mailto:buckshot_collie263@simplelogin.com), and I'll get back to you as soon as possible. Alternatively, you can conact me through Discord at `zweegle`. **Friend requests without a personalized message will be denied.**
 
@@ -581,7 +640,7 @@ If you have any questions or information that I might find useful, please send a
 
 - The team at **My Chemical Leakage**, for creating the [My Chemical Romance tracker](https://docs.google.com/spreadsheets/d/1FQAhGUAkdn_0H31c_eAGzJxqLBrN4OB-M6Gn1UXtOQU/edit?gid=0#gid=0).
 
-- **Ham1ltron**, for creating the amazing absolutely [cover art](https://www.reddit.com/r/ThePaperKingdomMCR/comments/1r95km9/my_take_on_the_paper_kingdom_cover/) and letting me use it for this page! 
+- **Hamiltron**, for creating the amazing absolutely [cover art](https://www.reddit.com/r/ThePaperKingdomMCR/comments/1r95km9/my_take_on_the_paper_kingdom_cover/) and letting me use it for this page! 
 
 ## Credits
 
@@ -629,7 +688,7 @@ If you have any questions or information that I might find useful, please send a
 [^fn-nth-19]: [Louder (July 29, 2025): "Watch My Chemical Romance perform unreleased anthem War Beneath The Rain for the very first time"](https://www.loudersound.com/bands-artists/my-chemical-romance-perform-unreleased-anthem-war-beneath-the-rain)
 [^fn-nth-20]: [Zach Dresch for KCFS (January 31, 2014): "Gerard Way Interview" [@LandonAdam]  YouTube."](https://youtu.be/4krlP8BX_Hk)
 [^fn-nth-21]: [Under The Gun Review (April 29, 2014): "UTG INTERVIEW: Reggie & the Full Effect @ Middle of the Map Fest"](https://underthegunreview.net/2014/04/29/utg-interview-reggie-the-full-effect-middle-of-the-map-fest/)
-[^fn-nth-22]: [Grantland Podcasts (July 24, 2014): "Gerard Way on My Chemical Romance & His Solo Album"](https://underthegunreview.net/2014/04/29/utg-interview-reggie-the-full-effect-middle-of-the-map-fest/)
+[^fn-nth-22]: [Grantland Podcasts (July 24, 2014): "Gerard Way on My Chemical Romance & His Solo Album"](https://web.archive.org/web/20141011003535/https://www.youtube.com/watch?v=yhl4sipTN04)
 [^fn-nth-23]: Tom Bryant (September 30, 2014): "Not the Life It Seems: The True Lives of My Chemical Romance"
 [^fn-nth-24]: [Loudwire (July 31, 2022): "Doug McKean, My Chemical Romance Producer, Dead at 54"](https://loudwire.com/doug-mckean-engineer-my-chemical-romance-producer-dead-54/)
 [^fn-nth-25]: [Blunt Magazine (December 12, 2022): "Welcome to the black market: Profiting off stolen music in plain sight"](https://bluntmag.com.au/music/welcome-to-the-black-market-profiting-off-stolen-music-in-plain-sight/)
@@ -648,7 +707,9 @@ If you have any questions or information that I might find useful, please send a
 [^fn-nth-38]: [Frank Iero (July 3, 2012): "@raytoro & i are working on a song in the studio today, apparently inspired by movies about a young girl on a journey of sexual exploration." [@FrankIero]  X.](https://x.com/FrankIero/status/220285573917716482)
 [^fn-nth-39]: [Reverb (June 21, 2023): "Harmony Baritone Ukulele Owned by Frank Iero"](https://reverb.com/item/70179111-harmony-baritone-ukulele-owned-by-frank-iero)
 [^fn-nth-40]: [Rolling Stone (May 12, 2022): "My Chemical Romance Mark Musical Return With Six-Minute Epic ‘The Foundations of Decay’"](https://www.rollingstone.com/music/music-news/my-chemical-romance-the-foundations-of-decay-song-video-1352386/)
-[^fn-nth-41]: [Bl0k1d (March 3, 2026): " Doug asking for Narita airport samples during tpk recording "](https://www.reddit.com/r/ThePaperKingdomMCR/comments/1rjbqvf/doug_asking_for_narita_airport_samples_during_tpk/)
+[^fn-nth-41]: [Bl0k1d (March 3, 2026): " Doug asking for Narita airport samples during tpk recording"](https://www.reddit.com/r/ThePaperKingdomMCR/comments/1rjbqvf/doug_asking_for_narita_airport_samples_during_tpk/)
+[^fn-nth-42]: [My Chemical Romance B Set - Wembley - 8th July"](https://www.youtube.com/watch?v=eZ8yJpMucl0&t=670s)
+[^fn-nth-43]: [Listen to Gerard Way’s new songs ‘Don’t Try’ and ‘Pinkish’](https://www.nme.com/news/music/gerard-way-0-1205519)
 
 
 
