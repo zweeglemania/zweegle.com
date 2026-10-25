@@ -1,12 +1,13 @@
 ---
 title: The Paper Kingdom
-date: 2026-10-23 03:27:00 +0100
+date: 2026-10-25 21:30:00 +0000
 categories: [Lost Media]
 image:
   path: /assets/img/2026/10/tpk-cover-image.jpg
 description: Everything we know about "the darkest music <i>My Chemical Romance</i> has ever written".
 tags: [my chemical romance, lost media]     # TAG names should always be lowercase
 comments: false
+pin: true
 ---
 
 In response to the polarizing reception of their fourth album *Danger Days*, American rock band My Chemical Romance began working on a follow-up record with the hopes of re-capturing the success of their iconic third album, *The Black Parade*. Following the conclusion of the *Danger Days* tour, the band returned to Los Angeles to begin work on their fifth album—a concept record about a support group of parents coping with their loss of their children, titled *The Paper Kingdom*. However, the sessions for the album were described as bleak[^fn-nth-23], with those present at the sessions describing it as the darkest music the band had ever written and drawing comparisons to experimental alt-rock band Radiohead. 
