@@ -376,7 +376,7 @@ In response to the polarizing reception of their fourth album *Danger Days*, Ame
 
     >Reliable sources for this particular leak are extremely difficult to find, and no evidence of the original threads existence is currently known to exist.
     >
-    >An article from the *Jewel City Times* says a song leaked on July 4, 2026 and while it doesn't name the song, it does cite the My Chemical Romance tracker (which names the track) as it's primary source.
+    >An article from the *Jewel City Times* says a song leaked on July 4, 2024 and while it doesn't name the song, it does cite the My Chemical Romance tracker (which names the track) as it's primary source.
     {: .prompt-info }
     
 -   **July 5, 2024:** Reddit user Live_Space_2840 reveals on Reddit that they spoke to Excalibur back in October 2022. During this conversation, Excalibur provides two extra snippets, one of them being from "Wake Up!" (different from the first snippet) and the other being from a demo for their most recent single, "The Foundations of Decay".
